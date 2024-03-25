@@ -1,4 +1,6 @@
-Project Steps: 
+Project Components: 
+Tutorial: https://medium.com/@bchaipats/building-an-ai-assistant-for-your-own-data-with-llamaindex-langchain-and-gpt4all-fe81e277b769
+
   - **Development Environment Setup:** Google Colab for initial experimentation 
   -**LangChain to interface with LLMs and embedding models**
   - **GPT4All to run open-source LLMs on a laptop**
